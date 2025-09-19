@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# owner_mbots_render_env.py
+# Cbot.py
 # Single-file CBot + MBot manager (Render-ready) using environment variables.
 # - Tokens and OWNER_ID are read from environment variables (no hardcoding).
 # - Limits MBots to 20 (configurable).
