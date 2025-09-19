@@ -1,5 +1,5 @@
 python-telegram-bot==13.15
-apscheduler==3.9.1
+apscheduler==3.6.3
 sqlalchemy==1.4.46
 aiosqlite==0.17.0
 aiohttp==3.8.1
